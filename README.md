@@ -1,4 +1,3 @@
-# CDEC
 Cross-Domain Echo Controller
 =========================
 
@@ -98,5 +97,6 @@ Please cite our work as
   volume={},
   number={},
   pages={},
-}```
+}
+```
 
