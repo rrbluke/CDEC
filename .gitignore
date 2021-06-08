@@ -1,5 +1,13 @@
-# Object file
-*.o
+matlab/
+weights/
 
-# Ada Library Information
-*.ali
+
+*.pyc
+*.m
+*.mat
+*.h5
+*.wav
+
+
+__init__.py
+
