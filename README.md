@@ -3,7 +3,7 @@ Cross-Domain Echo Controller
 
 
 This repository contains python/tensorflow code to reproduce the experiments presented in our paper
-[Acoustic Echo Cancellation with Cross-Domain Learning](https://doi.org/10.1109/ICASSP.2019.8683517).
+[Acoustic Echo Cancellation with Cross-Domain Learning](https://interspeech2021.gcon.me/document/245_Full%20paper.pdf).
 It is based on the state-space partitioned-block-based acoustic echo controller (https://doi.org/10.1109/ICASSP.2014.6853806),
 and a tome-domain neural network to remove non-linear and residual echo artifacts.
 
